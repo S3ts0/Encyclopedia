@@ -1,0 +1,37 @@
+body {
+  background-color: aqua;
+  margin: 0%;
+}
+.header {
+  background-color: rgb(55, 211, 16);
+  width: 100vw;
+  height: 5vw;
+}
+
+.icons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  background-color: white;
+  width: 33.33%;
+  padding: 10px;
+  height: 840px;
+}
+.column2 {
+  background-color: rgb(177, 87, 87);
+  width: 33.33%;
+  padding: 10px;
+  height: 840px;
+}
+.column3 {
+  background-color: pink;
+  width: 33.33%;
+  padding: 10px;
+  height: 840px;
+}
